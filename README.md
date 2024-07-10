@@ -1,0 +1,1 @@
+Funky lil rework of Copper. Basically just adding some more "useful" items you can craft with copper, since the vanilla items are limited to builders who enjoy the look of copper, and some small things here and there.
