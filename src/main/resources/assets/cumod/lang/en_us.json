@@ -1,0 +1,9 @@
+{
+  "item.cumod.cu_shovel": "Copper Shovel",
+  "item.cumod.cu_pick": "Copper Pickaxe",
+  "item.cumod.cu_axe": "Copper Axe",
+  "item.cumod.cu_hoe": "Copper Hoe",
+  "item.cumod.cu_rail": "Copper Powered Rail",
+
+  "itemgroup.cu": "CuMod"
+}
