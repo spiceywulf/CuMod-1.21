@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "cumod",
+	"version": "${version}",
+	"name": "CuMod",
+	"description": "Spicey's Copper (CU) Reword mod. Does stuff I guess.",
+	"authors": [
+		"SpiceyWulf"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/cumod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.spiwu.cumod.CuMod"
+		],
+		"client": [
+			"net.spiwu.cumod.CuModClient"
+		],
+		"fabric-datagen": [
+			"net.spiwu.cumod.CuModDataGenerator"
+		]
+	},
+	"mixins": [
+		"cumod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
