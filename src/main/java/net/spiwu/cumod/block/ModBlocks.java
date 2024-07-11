@@ -14,7 +14,7 @@ public class ModBlocks {
             new Block(AbstractBlock.Settings.copy(Blocks.COPPER_BLOCK).nonOpaque()));
 
     public static final Block CU_RAIL = registerBlock("cu_rail",
-            new PoweredRailBlock(AbstractBlock.Settings.copy(Blocks.POWERED_RAIL)));
+            new ModPoweredRailBlock(AbstractBlock.Settings.copy(Blocks.POWERED_RAIL)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
