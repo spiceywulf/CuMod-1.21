@@ -1,0 +1,21 @@
+// 1.21	2024-07-11T21:23:38.3710714	CuMod/Model Definitions
+350aab9b84fc8dbae0e2c35d099191a7cf91b662 assets\cumod\models\item\cu_sword.json
+2e264137b279911e7dc66dc1fdbc8e878cf148f6 assets\cumod\models\item\cu_shovel.json
+49ecc49fd5fda8390da90c074dbc7aab6182cc35 assets\cumod\models\block\cu_rail_on_raised_ne.json
+5ee27c40e0c48df277033546aa0b877dcd28eecf assets\cumod\models\item\cu_pick.json
+dae62179c986175e856951e7d21dead2dc7cd3df assets\cumod\models\block\cu_rail_raised_sw.json
+ab48795e821a7c0319f2b83444f2dc53ff284a8d assets\cumod\models\item\cu_helmet.json
+d6ce0f123c952cf513c70cf55691403fa0bdb043 assets\cumod\models\item\cu_leggings.json
+b5b806980e312ae0346665f6fb37c4f2fb309279 assets\cumod\models\item\cu_block.json
+e3d83958938ab82918faf6a9883951f6fc9323fb assets\cumod\models\item\cu_rail.json
+592c2042afe22d32509de5536d561486c87d06f6 assets\cumod\models\item\cu_hoe.json
+09def93db5061df822a1678a78910874c67dbd29 assets\cumod\models\item\cu_axe.json
+d283da245ee887f0e5f74d253bb87f84a5f4d8fe assets\cumod\models\block\cu_rail_on.json
+3c64d9266d8b33594bedaffe62c8a158d9eb0839 assets\cumod\models\item\cu_chestplate.json
+5ca90ec649351e1697b15102110b94588582c0e0 assets\cumod\models\block\cu_rail.json
+cf8a2936863b5a32e64dac661bcc31ad1cf5c30e assets\cumod\models\item\cu_boots.json
+2dc198503b3e89e0c3dc711382c04f208ac7a944 assets\cumod\models\block\cu_block.json
+c95f7575c66aee97aea11c11c99ead1bf2255091 assets\cumod\models\block\cu_rail_raised_ne.json
+cc8ef17669e63afddeda7a52b6f6e49e299b0ee5 assets\cumod\blockstates\cu_rail.json
+8e2932726671942fd1f3a89604bee563924080b4 assets\cumod\blockstates\cu_block.json
+0712771741534c76f11e22350b75d2961df4f62f assets\cumod\models\block\cu_rail_on_raised_sw.json

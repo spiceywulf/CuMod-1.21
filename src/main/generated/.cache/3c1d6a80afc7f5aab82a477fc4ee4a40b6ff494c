@@ -1,0 +1,21 @@
+// 1.21	2024-07-11T21:23:38.3710714	CuMod/Recipes
+4fa219dcc447e157b6e4572c38825835f0d65393 data\cumod\advancement\recipes\combat\cu_sword.json
+11a1f5c0c2bca119648eef9e0b9673d8b186d850 data\cumod\recipe\cu_helmet.json
+7f45294c34f389dd039b1ce173268dbc9a11bf81 data\cumod\advancement\recipes\combat\cu_boots.json
+0290745dfeaebf16b89bd4fe892b34638785e3d1 data\cumod\advancement\recipes\tools\cu_axe.json
+9f19a4e3ed529a8189a8261bc8bfc4d20392968b data\cumod\advancement\recipes\tools\cu_hoe.json
+e52993c36a7a2a7e6b6ac528268e0a1c68616135 data\cumod\advancement\recipes\combat\cu_chestplate.json
+d38c4b7cf9ac4cff7f195da2f2d612cf8c1a3926 data\cumod\advancement\recipes\combat\cu_helmet.json
+e21d439f8f829e9b7cdf5df5a0d491d8c7595be6 data\cumod\recipe\cu_boots.json
+7746565cbd176e17e3628b911acfa6dce1875662 data\cumod\recipe\cu_rail.json
+355a389a211ff3e1ce3be7a4c75d1afb86a67439 data\cumod\recipe\cu_sword.json
+ea115e5e3f67a3e05f6e15b22927bdc14cc65694 data\cumod\advancement\recipes\combat\cu_leggings.json
+e460d9421e882bf09924541ac75471341e5343e4 data\cumod\recipe\cu_hoe.json
+1320e20964188abe9bed0b0911cd16fab2a102ad data\cumod\recipe\cu_axe.json
+8739fad8a7e7ade3a4c70d01a3847f1c01903d4b data\cumod\advancement\recipes\tools\cu_pick.json
+93a80d0862eabc2160eac4a8accafa8b08e7b3b5 data\cumod\recipe\cu_shovel.json
+bc4eb0caab3088a84527b6a1931b8d3c77e641f9 data\cumod\advancement\recipes\misc\cu_rail.json
+11b8e96bc5c38da4a83566b3ed75a2443ad92fb9 data\cumod\recipe\cu_leggings.json
+1bd885ce55079a8d6e1bcfbab3f74d3afa97d2e9 data\cumod\recipe\cu_chestplate.json
+1ec92ecb41cc834ae8665817dae101d543b2b913 data\cumod\recipe\cu_pick.json
+f0a9603bf62c3dc2232f07ef64db219b498226a8 data\cumod\advancement\recipes\tools\cu_shovel.json

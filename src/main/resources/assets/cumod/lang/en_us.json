@@ -3,7 +3,16 @@
   "item.cumod.cu_pick": "Copper Pickaxe",
   "item.cumod.cu_axe": "Copper Axe",
   "item.cumod.cu_hoe": "Copper Hoe",
-  "item.cumod.cu_rail": "Copper Powered Rail",
+
+  "item.cumod.cu_sword": "Copper Sword",
+
+  "item.cumod.cu_helmet": "Copper Helmet",
+  "item.cumod.cu_chestplate": "Copper Chestplate",
+  "item.cumod.cu_leggings": "Copper Leggings",
+  "item.cumod.cu_boots": "Copper Boots",
+
+  "block.cumod.cu_rail": "Copper Powered Rail",
+  "block.cumod.cu_block": "TEST BLOCK",
 
   "itemgroup.cu": "CuMod"
 }

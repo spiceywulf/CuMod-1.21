@@ -2,6 +2,7 @@ package net.spiwu.cumod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.spiwu.cumod.block.ModBlocks;
 import net.spiwu.cumod.item.ModItemGroups;
 import net.spiwu.cumod.item.ModItems;
 import org.slf4j.Logger;
@@ -15,5 +16,6 @@ public class CuMod implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
