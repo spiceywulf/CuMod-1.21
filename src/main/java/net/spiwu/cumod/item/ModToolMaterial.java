@@ -20,7 +20,7 @@ public enum ModToolMaterial implements ToolMaterial {
     private final Supplier<Ingredient> repairIngredient;
 
     ModToolMaterial(TagKey<Block> inverseTag, int itemDurability, float miningSpeed, float attackDamage, int enchantability, Supplier<Ingredient> repairIngredient) {
-        this.inverseTag = inverseTag;;
+        this.inverseTag = inverseTag;
         this.itemDurability = itemDurability;
         this.miningSpeed = miningSpeed;
         this.attackDamage = attackDamage;

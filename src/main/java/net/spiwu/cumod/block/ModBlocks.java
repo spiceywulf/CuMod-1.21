@@ -11,7 +11,7 @@ import net.spiwu.cumod.CuMod;
 public class ModBlocks {
 
     public static final Block CU_BLOCK = registerBlock("cu_block",
-            new Block(AbstractBlock.Settings.copy(Blocks.COPPER_BLOCK).nonOpaque(true)));
+            new Block(AbstractBlock.Settings.copy(Blocks.COPPER_BLOCK).nonOpaque()));
 
     public static final Block CU_RAIL = registerBlock("cu_rail",
             new PoweredRailBlock(AbstractBlock.Settings.copy(Blocks.POWERED_RAIL)));
